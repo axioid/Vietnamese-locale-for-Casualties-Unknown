@@ -1288,39 +1288,39 @@
         "saline": "Nước muối sinh lý",
         "salinedsc": "Hỗn hợp muối và nước, thường được sử dụng trong điều trị chứng giảm thể tích máu và khát nước.",
         "antivenom": "Chất giải độc",
-        "antivenomdsc": "Biện pháp điều trị ngộ độc nọc độc, bao gồm các kháng thể vô hiệu hóa độc tố máu. Hoạt động qua đường tĩnh mạch.",
+        "antivenomdsc": "Hỗn hợp điều trị nhiễm nọc độc, bao gồm các kháng thể vô hiệu hóa độc tố gây hại cho máu. Hoạt động qua đường tĩnh mạch.",
         "blood": "Máu",
         "blooddsc": "Máu màu vàng. Mặc dù màu sắc này có vẻ bình thường đối với bạn, nó rõ ràng là tác dụng phụ của quá trình sinh học nhân tạo. Dùng trong điều trị giảm thể tích máu.",
         "redblood": "Máu đỏ",
-        "redblooddsc": "Máu đỏ. Trông hơi lạ đối với bạn, và mùi của nó gợi nhớ đến những kẻ đã bắt giữ bạn. Có thể điều trị chứng giảm thể tích máu, nhưng cơ thể bạn sẽ không chịu được lâu.",
-        "alienblood": "Máu người ngoài hành tinh",
-        "alienblooddsc": "Máu màu vàng từ người ngoài hành tinh. Trông tương tự như của bạn, nhưng về mặt thị giác có hơi khác một chút. Nhưng nó cũng không tệ để dùng thay thế máu.",
+        "redblooddsc": "Máu đỏ. Trông hơi lạ đối với bạn, và mùi của nó gợi nhớ đến những kẻ đã giam giữ bạn. Có thể điều trị chứng giảm thể tích máu, nhưng cơ thể bạn sẽ không dung nạp tốt.",
+        "alienblood": "Máu sinh vật lạ",
+        "alienblooddsc": "Máu màu vàng từ sinh vật ngoài hành tinh. Trông tương tự như máu của bạn, nhưng trông có hơi khác một chút. Lấy để thế máu chắc cũng không tệ lắm.",
         "antiserum": "Huyết thanh kháng khuẩn",
         "antiserumdsc": "Huyết thanh chứa kháng thể để chống lại hầu hết các bệnh nhiễm trùng thông thường. Tăng khả năng miễn dịch và giúp giảm nhiễm trùng máu. Tăng nhẹ thể tích máu.",
         "antibiotics": "Kháng sinh",
-        "antibioticsdsc": "Thuốc dạng viên làm tăng khả năng miễn dịch của bạn trong một thời gian, chống lại mọi loại nhiễm trùng. Có mùi vị khó chịu.",
+        "antibioticsdsc": "Thuốc dạng viên làm tăng khả năng miễn dịch của bạn trong một khoảng thời gian, chống lại mọi loại nhiễm trùng. Có mùi vị khó chịu.",
         "sleepingpills": "Thuốc ngủ",
-        "sleepingpillsdsc": "Thuốc ngủ liều cao. Cho phép bạn ngủ ngay cả trong tình trạng thể chất tồi tệ. Không kết hợp với thuốc phiện.",
+        "sleepingpillsdsc": "Thuốc ngủ liều cao. Cho phép bạn ngủ ngay cả trong tình trạng thể chất tồi tệ. Không được dùng chung với thuốc phiện.",
         "procoagulant": "Chất đông máu",
-        "procoagulantdsc": "Hóa chất thúc đẩy quá trình đông máu. Làm chậm toàn diện sự mất máu, bao gồm cả chảy máu trong. Sẽ gây biến chứng nếu lạm dụng.",
+        "procoagulantdsc": "Hóa chất thúc đẩy quá trình đông máu. Làm chậm quá trình mất máu trên toàn cơ thể, bao gồm cả chảy máu trong. Sẽ gây biến chứng nếu lạm dụng.",
         "epinephrine": "Epinephrine",
-        "epinephrinedsc": "Adrenaline tinh khiết. Giảm đau trong một thời gian và có cơ hội thấp khởi động lại tim nếu nó ngừng đập. Vượt quá 40mL sẽ gây rung tim.",
+        "epinephrinedsc": "Adrenaline tinh khiết. Giảm đau trong một thời gian và có khả năng nhỏ khởi động lại tim nếu nó ngừng đập. Dùng quá 40mL sẽ gây rung tim.",
         "oxyline": "Oxyline",
-        "oxylinedsc": "Hóa chất tổng hợp làm tăng nồng độ oxy trong máu một cách nhanh chóng khi tiêm, đồng thời ổn định tình trạng rung tim và thúc đẩy sản xuất hemoglobin. Có xu hướng phát nổ khi trộn lẫn với axit dạ dày.",
+        "oxylinedsc": "Hóa chất phản ứng làm tăng nồng độ oxy trong máu một cách nhanh chóng khi tiêm, đồng thời ổn định tình trạng rung tim và thúc đẩy sản xuất hemoglobin. Có xu hướng phát nổ khi trộn lẫn với axit dạ dày.",
         "antidepressants": "Thuốc chống trầm cảm",
-        "antidepressantsdsc": "Thuốc chống trầm cảm dạng viên liều cao. Khiến bạn cảm nhận mọi thứ ít đi một lúc và từ từ làm tăng mức độ vui vẻ. Có thể có tác dụng phụ.",
+        "antidepressantsdsc": "Thuốc chống trầm cảm dạng viên liều cao. Khiến bạn cảm nhận mọi thứ nhẹ nhàng hơn một lúc và từ từ làm tăng mức độ vui vẻ. Có thể có tác dụng phụ.",
         "antirad": "Thuốc kháng phóng xạ",
-        "antiraddsc": "Thuốc thử nghiệm trực tiếp làm giảm ảnh hưởng của nhiễm phóng xạ khi uống. Sẽ cần liều cao hơn cho bệnh nặng.",
+        "antiraddsc": "Thuốc thử nghiệm có tác dụng trực tiếp làm giảm ảnh hưởng của bệnh nhiễm phóng xạ khi uống. Sẽ cần liều cao hơn cho bệnh nặng.",
         "braingrow": "Thuốc tái tạo mô não",
-        "braingrowdsc": "Thuốc uống đặc biệt kích thích sự tái tạo của não bộ. Tăng cường sự nguyên vẹn của não, nhưng thường có tác dụng phụ nghiêm trọng.",
+        "braingrowdsc": "Thuốc uống đặc trị có tác dụng kích thích sự tái tạo của não bộ. Tăng cường sự nguyên vẹn của não, nhưng thường có tác dụng phụ nghiêm trọng.",
         "mindwipe": "Thuốc xóa trí nhớ",
         "mindwipedsc": "Thuốc tổng hợp đặc biệt giúp xóa sạch hầu hết ký ức và tổn thương trong quá khứ, chỉ để lại bản năng sinh tồn, kiến thức cơ bản và sự vô cảm. Thường là giải pháp cuối khi đối tượng mất nhận thức hoặc có nguy cơ tự sát. Có thể chữa tổn thương não với mức độ từ trung bình đến nặng. Có ảnh hưởng vĩnh viễn nếu không được phục hồi dài hạn. Đây được coi là biện pháp cuối cùng.",
         "streptokinase": "Streptokinase",
         "streptokinasedsc": "Thuốc làm loãng máu. Giảm mạnh độ nhớt của máu và phá vỡ cục máu đông.",
         "sodiumnitroprusside": "Sodium nitroprusside",
-        "sodiumnitroprussidedsc": "Một loại thuốc được sử dụng để hạ huyết áp, hữu ích để tránh khủng hoảng do tăng huyết áp. Chỉ hoạt động qua đường tĩnh mạch. 10mL mỗi phút.",
+        "sodiumnitroprussidedsc": "Một loại thuốc được sử dụng để hạ huyết áp, hữu ích để tránh tăng huyết áp cấp tính. Chỉ hoạt động qua đường tĩnh mạch. 10mL mỗi phút.",
         "vasopressin": "Vasopressin",
-        "vasopressindsc": "Một hormone được sử dụng để tăng huyết áp, hữu ích để tránh hạ huyết áp gây chết người. Hoạt động tốt hơn qua đường tĩnh mạch. 10mL mỗi phút.",
+        "vasopressindsc": "Một hormone được sử dụng để tăng huyết áp, hữu ích để tránh hạ huyết áp gây tử vong. Hiệu quả hơn khi tiêm vào tĩnh mạch. 10mL mỗi phút.",
         "amiodarone": "Amiodarone",
         "amiodaronedsc": "Một loại thuốc chống loạn nhịp tim được sử dụng để điều trị và phòng ngừa rung tim xảy ra. Sẽ khiến hầu hết các chứng rối loạn nhịp tim từ từ thuyên giảm, nhưng gây tổn thương nội tạng nhẹ. Chỉ hoạt động qua đường tĩnh mạch. 20mL mỗi phút.",
         "chocolatemilk": "Sữa sô-cô-la",
@@ -4442,7 +4442,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "mình nghe lén được những kẻ bắt giữ chúng mình gọi chúng mình là một thứ pha trộn ghớm ghiếc của \"người, cáo và chuột\", bất kể điều đó có nghĩa là gì. họ đang giấu bao nhiêu thứ khỏi chúng mình? suy nghĩ đó làm mình sợ hãi. mình chưa bao giờ xem xét bất cứ điều gì nằm ngoài nơi chúng mình được nuôi dưỡng. và bây giờ mình ở đây. mình không thể hiểu nổi tất cả những chuyện này.\n(Trên tờ giấy có gì đó trông giống như một bức chân dung tự họa.)",
+                "Item1": "mình nghe lén được những kẻ giam giữ chúng mình gọi chúng mình là một thứ pha trộn ghớm ghiếc của \"người, cáo và chuột\", bất kể điều đó có nghĩa là gì. họ đang giấu bao nhiêu thứ khỏi chúng mình? suy nghĩ đó làm mình sợ hãi. mình chưa bao giờ xem xét bất cứ điều gì nằm ngoài nơi chúng mình được nuôi dưỡng. và bây giờ mình ở đây. mình không thể hiểu nổi tất cả những chuyện này.\n(Trên tờ giấy có gì đó trông giống như một bức chân dung tự họa.)",
                 "Item2": "Sprites/noteDrawings/experiment",
                 "Item3": "experiment"
             },
@@ -4452,7 +4452,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "những kẻ bắt giữ sẽ nhận được những gì chúng đáng phải nhận.",
+                "Item1": "những kẻ giam giữ sẽ nhận được những gì chúng đáng phải nhận.",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4542,7 +4542,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một người hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên người mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ bắt giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
+                "Item1": "Cái hang chứa đầy đủ loại sinh vật liên tục đi lang thang khắp mọi nơi. mình là một người hơi theo chủ nghĩa hòa bình, vì vậy mình cố gắng chạy trốn khỏi chúng, thay vì chiến đấu với chúng, vì mình không biết ai sẽ giết ai trước... Xét cho cùng, những vết thương chúng để lại trên người mình đau đớn khủng khiếp... mình không biết nữa... Những kẻ giam giữ chúng mình có biết chúng mình đang trải qua những gì ở dưới này không?",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -4641,7 +4641,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "(Có một bức vẽ sơ sài về thứ trông giống như một trong những kẻ bắt giữ bạn. Họ đang cầm thứ mà bạn có thể nhận ra là súng điện. Khuôn mặt của họ bị gạch chéo bằng một chữ X lớn. Vũ khí đó mang lại những ký ức kinh hoàng.)",
+                "Item1": "(Có một bức vẽ sơ sài về thứ trông giống như một trong những kẻ giam giữ bạn. Họ đang cầm thứ mà bạn có thể nhận ra là súng điện. Khuôn mặt của họ bị gạch chéo bằng một chữ X lớn. Vũ khí đó mang lại những ký ức kinh hoàng.)",
                 "Item2": "Sprites/noteDrawings/scientist",
                 "Item3": ""
             },
@@ -4651,7 +4651,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "tình cờ nghe được một chút từ những kẻ bắt giữ chúng mình, có vẻ như hàng hóa mà chúng mình được cho là phải lấy là một loại \"nguồn năng lượng tiên tiến\" nào đó. điều gì đó về việc lưu trữ một lượng lớn điện năng và phân phối nó \"không dây\". mình không biết phần lớn những thứ đó có nghĩa là gì, nhưng có lẽ sẽ hữu ích nếu biết. hãy giữ an toàn",
+                "Item1": "tình cờ nghe được một chút từ những kẻ giam giữ chúng mình, có vẻ như hàng hóa mà chúng mình được cho là phải lấy là một loại \"nguồn năng lượng tiên tiến\" nào đó. điều gì đó về việc lưu trữ một lượng lớn điện năng và phân phối nó \"không dây\". mình không biết phần lớn những thứ đó có nghĩa là gì, nhưng có lẽ sẽ hữu ích nếu biết. hãy giữ an toàn",
                 "Item2": "",
                 "Item3": "experiment"
             },
