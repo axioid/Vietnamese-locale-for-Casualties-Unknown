@@ -82,11 +82,72 @@ merged 1453
 merged 1455
 1457 - runsetbonuslimbarmor: mistranslate?
 1458 - runsetbonuslimbarmordsc: where are you getting this?
+semi-merged 1464
+semi-merged 1464
+semi-merged 1481
+semi-merged 1482
+merged 1497
+semi-merged 1513
+merged 1528
+semi-merged 1534
+semi-merged 1536
+merged 1543
+semi-merged 1544
+semi-merged 1548
+semi-merged 1549
+merged 1553
+semi-merged 1554
+merged 1557
+semi-merged 1559
+merged 1565
+semi-merged 1566
+semi-merged 1567
+semi-merged 1570
+semi-merged 1581
+merged 1593
+1594 - gamesetattack: wow
+merged 1604
+semi-merged 1605
+merged 1628
+semi-merged 1649
+merged 1659
+semi-merged 1662
+1675 - toomuchpain: missing translation
+1676 - toomuchpaindsc: missing translation
+semi-merged 1682
+semi-merged 1693
+semi-merged 1696
+merged 1715
+merged 1716
+merged 1731
+merged 1739
+merged 1743
+merged 1745
+merged 1749
+semi-merged 1758
+merged 1770
+semi-merged 1772
+merged 1783
+merged 1785
+merged 1786
+merged 1793
+merged 1794
+merged 1805
+semi-merged 1829
+semi-merged 1832
+semi-merged 1833
+semi-merged 1836
+merged 1848
+merged 1854
+merged 1861
+semi-merged 1871
+semi-merged 1872
+semi-merged 1880
+1886 -> 1890: not in the run yet, but is spawnable and viewable
+semi-merged 1897
+semi-merged 1898
+semi-merged 1899
+merged 1903
+semi-merged 1904
+semi-merged 1905
 
-
-
-
-
-
-
-	
