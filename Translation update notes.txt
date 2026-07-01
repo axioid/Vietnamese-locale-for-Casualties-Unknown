@@ -99,6 +99,8 @@ merged 1553
 semi-merged 1554
 merged 1557
 semi-merged 1559
+semi-merged 1563
+semi-merged 1564
 merged 1565
 semi-merged 1566
 semi-merged 1567
@@ -157,6 +159,7 @@ merged 1947
 merged 1949
 merged 1962
 1966 -> 1971: missing translation (appear in health panel when in critical condition or close to radiation line)
+semi-merged 1972
 merged 1979
 1981 - tutbasic10: in EN.json, the instructor talks with the Expie, thus using "yourself". Despite meta-driven instructions, the speech here is meant for Expie, not the player.
 semi-merged 1984
@@ -168,3 +171,37 @@ semi-merged 2010
 semi-merged 2015
 semi-merged 2016
 semi-merged 2026
+semi-merged 2027
+semi-merged 2028
+semi-merged 2034
+semi-merged 2037
+semi-merged 2039
+semi-merged 2043
+semi-merged 2048
+semi-merged 2050
+semi-merged 2052
+semi-merged 2054
+semi-merged 2063
+semi-merged 2067
+semi-merged 2070
+semi-merged 2071
+semi-merged 2073
+semi-merged 2074
+semi-merged 2075
+semi-merged 2080
+semi-merged 2081
+semi-merged 2082
+semi-merged 2084
+semi-merged 2086
+semi-merged 2087
+semi-merged 2089
+semi-merged 2090
+semi-merged 2091
+semi-merged 2092
+semi-merged 2094
+semi-merged 2095
+semi-merged 2096
+semi-merged 2099
+semi-merged 2101
+semi-merged 2102
+
